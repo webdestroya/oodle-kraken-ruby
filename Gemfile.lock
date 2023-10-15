@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    oodle-kraken-ruby (0.9.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  oodle-kraken-ruby!
+
+BUNDLED WITH
+   2.2.33

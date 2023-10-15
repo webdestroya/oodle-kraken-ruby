@@ -49,7 +49,8 @@ static inline uint32_t _rotl(uint32_t x, int n) {
   return (((x) << (n)) | ((x) >> (32-(n))));
 }
 
-#include <xmmintrin.h>
+// #include <xmmintrin.h>
+#include "sse2neon.h"
 #endif
 
 #pragma warning (disable: 4244)

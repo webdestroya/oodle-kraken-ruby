@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'oodle-kraken-ruby'
-  s.version = "0.9.0"
+  s.version = "0.10.0"
   s.author = "Brice Videau"
   s.email = "brice.videau@gmail.com"
   s.homepage = "https://github.com/kerilk/oodle-kraken-ruby"
